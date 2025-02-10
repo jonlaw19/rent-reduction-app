@@ -1,0 +1,38 @@
+{
+    "rental_data": [
+        {
+            "address": "123 Main St",
+            "zip_code": "10001",
+            "rent": 2500,
+            "bedrooms": 2,
+            "bathrooms": 1
+        },
+        {
+            "address": "456 Park Ave",
+            "zip_code": "10001",
+            "rent": 2300,
+            "bedrooms": 2,
+            "bathrooms": 1
+        },
+        {
+            "address": "789 Broadway",
+            "zip_code": "10001",
+            "rent": 2700,
+            "bedrooms": 2,
+            "bathrooms": 1
+        }
+    ],
+    "market_trends": {
+        "10001": {
+            "avg_rent": 2500,
+            "vacancy_rate": 0.05,
+            "yearly_change": 0.03,
+            "seasonal_patterns": {
+                "winter": -0.05,
+                "spring": 0.02,
+                "summer": 0.08,
+                "fall": -0.02
+            }
+        }
+    }
+}

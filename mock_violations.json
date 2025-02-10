@@ -1,0 +1,26 @@
+{
+    "building_violations": [
+        {
+            "address": "123 Main St",
+            "violations": [
+                {
+                    "type": "Heating",
+                    "description": "Inadequate heating during winter months",
+                    "date": "2023-01-15"
+                },
+                {
+                    "type": "Maintenance",
+                    "description": "Building facade requires repair",
+                    "date": "2023-02-20"
+                }
+            ]
+        }
+    ],
+    "tenant_rights": [
+        "Right to habitable premises",
+        "Right to proper heat and hot water",
+        "Right to timely repairs",
+        "Protection against retaliation",
+        "Right to proper notice before eviction"
+    ]
+}
